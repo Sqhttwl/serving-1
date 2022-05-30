@@ -14,6 +14,11 @@ $$\left( \sum{k=1}^n a_k b_k \right)^2 \leq \left( \sum{k=1}^n ak^2 \right) \lef
 
 
 **DeepFaceLab:** A simple, flexible and extensible face swapping framework
+
+
+
+
 https://arxiv.org/abs/2005.05535v1
+
 https://github.com/iperov/DeepFaceLab/
 
